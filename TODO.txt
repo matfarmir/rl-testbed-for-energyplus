@@ -1,0 +1,1 @@
+TODO: Create virtual environment in my-project directory OR install new python version. \n Install older python version with tf 2.7.2 \n Continue
